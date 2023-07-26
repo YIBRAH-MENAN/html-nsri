@@ -1,0 +1,31 @@
+table {
+    font-family: Calibri;
+    color: #060007;
+    font-size: 20pt;
+    font-style: normal;
+   background-color: lightblue;
+    border-collapse: collapse;
+    border: 10px solid navy;
+    position: relative;
+}
+
+table.inner {
+    border: 10px
+}
+.photo {
+    width: 200px;
+    height: 250px;
+    border: 5px solid #333;
+    position: absolute;
+    top:100;
+    right: 200;
+}
+
+input{
+    font-size: 20px;
+    color: #f90b0b;
+    height: 40px;
+    width: 70%;
+    /* border-radius: 2px; */
+    
+}
